@@ -8,16 +8,12 @@
 
  What's more ? I play the guitare and I love to be challenged.
 
----
-
  ## Connect with me :
 
 [<img align="left" alt="lejugeti | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </br>
 </br>
-
----
 
 ## Tools I use :
 
@@ -50,3 +46,5 @@
 [github]: https://github.com/
 [matlab]: https://fr.mathworks.com/help/matlab/
 [visualCode]: https://code.visualstudio.com/docs
+
+---
