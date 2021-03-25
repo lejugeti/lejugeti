@@ -1,8 +1,8 @@
 # lejugeti
  
- Hello there, I'm Antoine Parize, an engineering student in applied Cognitive Sciences, Information Technologies and UX Design. I'm currently following my second year at the Ecole Nationale Supérieure de Cognitique in Bordeaux.
+ Hello there, I'm Antoine Parize, an engineering student in Information Technologies and UX Design. I'm currently following my second year at the Ecole Nationale Supérieure de Cognitique in Bordeaux.
 
- I'm interested in Data Sciences, Web Development (back/front) and Statistics.
+ I'm interested in Web (back/front) and Software Development .
 
  When I do not work on my school's project, I usually take time to learn new technologies or frameworks in order to use them in my personnal projects.
 
