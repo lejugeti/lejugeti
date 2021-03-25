@@ -17,11 +17,12 @@
 
 ## Tools I use :
 
-[<img align="left" alt="Csharp" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png"/>][csharp]
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png"/>][python]
+[<img align="left" alt="Vuejs" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png"/>][angular]
 [<img align="left" alt="Vuejs" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png"/>][vuejs]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png"/>][php]
+[<img align="left" alt="Csharp" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png"/>][csharp]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png"/>][python]
+[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png"/>][php]
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
@@ -37,6 +38,7 @@
 [csharp]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
 [linkedin]: https://www.linkedin.com/in/antoine-parize-813580184/
 [python]: https://www.python.org/doc/
+[angular]: https://angular.io/
 [vuejs]: https://vuejs.org/
 [javascript]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 [php]: https://www.php.net/
