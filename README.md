@@ -4,7 +4,7 @@
 
  I crave developing softwares that ease my daily life, or creating video games on my free time.
 
- When I'm not reading books or playing video games, I often take time to learn new technologies or frameworks in order to use them in my personnal projects.
+ When I'm not reading books or cooking, I often take time to learn new technologies or frameworks in order to use them in my personnal projects.
 
  What's more ? I play board games a lot and I love challenges !
 
