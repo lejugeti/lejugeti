@@ -2,11 +2,11 @@
  
  Hello there, I'm Antoine Parize, an Information Technologies engineer.
 
- I crave developing softwares that ease my daily life, or creating video games on my free time.
+ I love developing softwares that ease my daily life, or creating video games on my free time.
 
  When I'm not reading books or cooking, I often take time to learn new technologies or frameworks in order to use them in my personnal projects.
 
- What's more ? I play board games a lot and I love challenges !
+ What's more ? I play board games and Magic the Gathering a lot !
 
  ## Connect with me :
 
